@@ -95,4 +95,4 @@ This guide explains how to run the system locally and how to build the APK.
 | Page not found | Apache is running and the folder path is correct |
 | Database connection error | MySQL is running and the `capstone` database was imported |
 | App cannot connect | The IP address is correct and both devices are on the same network |
-| Contact the main Developer for more question | 
+| Contact the main Developer for more question | bulay og yarn | 
